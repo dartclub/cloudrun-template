@@ -1,0 +1,9 @@
+
+pubspec.lock
+.dart_tool
+.packages
+.pub/
+build/
+.vscode
+.idea
+my-deploy.sh
